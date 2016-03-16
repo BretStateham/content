@@ -1,1 +1,9 @@
 _site
+**/[Tt]humbs.db
+.sass-cache
+0.1.0
+.gitmodules
+.deployment
+Gemfile.lock
+_config.dev.yml
+.jekyll-metadata
